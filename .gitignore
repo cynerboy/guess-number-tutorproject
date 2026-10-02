@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # customize for me
 build/
 CMakeLists.txt
 build.bat
 compile_commands.json
+=======
+>>>>>>> ddc18900c87e6f1ad2c2dc3459f31c4007473dab
 # Prerequisites
 *.d
 
